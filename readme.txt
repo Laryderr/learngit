@@ -6,6 +6,8 @@ Git tracks changes.
     
 stupid boss..
 
+Creating a new branch is quick
+
 
 
     
