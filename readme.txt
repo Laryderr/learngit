@@ -11,3 +11,4 @@ Creating a new branch is quick and simple.
 
 --no-ff meerge
     
+learn graph operate
