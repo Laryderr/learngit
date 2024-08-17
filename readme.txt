@@ -7,8 +7,13 @@ Git tracks changes.
 stupid boss..
 
 Creating a new branch is quick and simple.
-
+ZAx
 
 --no-ff meerge
     
 learn graph operate
+
+
+
+
+sowaht
